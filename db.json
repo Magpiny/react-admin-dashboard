@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title",
+      "body": "First post",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": 2,
+      "title": "Title",
+      "body": "Second post",
+      "publishedAt": "10-03-2020"
+    },
+    {
+      "id": 3,
+      "title": "Title",
+      "body": "Third post",
+      "publishedAt": "10-04-2020"
+    },
+    {
+      "id": 4,
+      "title": "Title",
+      "body": "Fourth post",
+      "publishedAt": "10-06-2020"
+    },
+    {
+      "id": 5,
+      "title": "Title",
+      "body": "From postman direct",
+      "publishedAt": "10-16-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "MagpinyBO",
+      "email": "magpinyb@gmail.com",
+      "city": "Nairobi"
+    },
+    {
+      "id": 2,
+      "username": "wsammy",
+      "email": "wsammyb@gmail.com",
+      "city": "Kisumu"
+    }
+  ]
+}
